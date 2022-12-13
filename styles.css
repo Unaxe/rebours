@@ -20,6 +20,7 @@ main {
   align-items: center;
   max-width: 600px;
   aspect-ratio : 2/3;
+  box-sizing: border-box;
   width: 100%;
   border: 18px solid #ff0b7f;
   border-radius: 30px;
