@@ -18,8 +18,8 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 600px;
-  height: 408px;
+  max-width: 600px;
+  aspect-ratio : 2/3;
   border: 18px solid #ff0b7f;
   border-radius: 30px;
   color: #ff0b7f;
