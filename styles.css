@@ -19,7 +19,7 @@ main {
   justify-content: center;
   align-items: center;
   max-width: 600px;
-  aspect-ratio : 2/3;
+  aspect-ratio : 3/2;
   box-sizing: border-box;
   width: 100%;
   border: 18px solid #ff0b7f;
