@@ -12,8 +12,5 @@ const countdown = setInterval(() => {
 
   const display = `${days}J ${hoursLeft}H ${minutesLeft}M ${seconds}S`;
   main.textContent = display;
-
-
-  countdown();
 }, 1);
 
